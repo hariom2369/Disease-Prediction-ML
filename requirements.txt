@@ -1,0 +1,6 @@
+@"
+streamlit
+pandas
+numpy
+scikit-learn
+"@ | Out-File -Encoding utf8 requirements.txt
